@@ -6,7 +6,7 @@
 
 #### 📍 Currently base at: Shenzhen, China  
 
-- 📫 Email me at [1533439272@qq.com]
+#### 📫 Email me at [1533439272@qq.com]
 
 ### 🛠 Tech Stack
 
